@@ -1,5 +1,7 @@
 # Hello, world!
 
-I study in Netology.
+I am Alexey Belyakov.
 
-25.10.2026
+I study at Netology.
+
+08.11.2026
